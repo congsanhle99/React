@@ -9,7 +9,7 @@ const Faq = () => {
         <div className="container faq">
           <div className="title --center-all">
             <AiOutlineBook size={36} color="orange" />
-            <h2 className="--my2">FAQ</h2>
+            <h2 className="--my2">FAQS</h2>
             <p className="--text-small">
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut natus doloribus dolorum voluptates soluta,
               itaque numquam nam eos rerum pariatur! Sunt ratione, dolorem commodi quasi repellat repellendus nam quos
