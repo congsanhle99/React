@@ -1,0 +1,23 @@
+.login {
+  background: var(--light-blue);
+}
+
+.login > div {
+  width: 40rem;
+}
+
+.password {
+  position: relative;
+
+  .icon {
+    position: absolute;
+    top: 60%;
+    right: 10px;
+    transform: translateY(-50%);
+    cursor: pointer;
+
+    &:hover {
+      color: darkorchid;
+    }
+  }
+}
