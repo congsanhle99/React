@@ -1,0 +1,24 @@
+.profile-sec {
+  background: var(--dark-blue);
+  min-height: 100vh;
+}
+
+.profile {
+  border: 1px solid #fff;
+  min-width: 350px;
+  margin-bottom: 1rem;
+
+  img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+  }
+
+  .icon {
+    color: #fff;
+    &:hover {
+      color: red;
+      cursor: pointer;
+    }
+  }
+}
